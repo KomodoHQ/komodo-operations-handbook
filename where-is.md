@@ -52,7 +52,7 @@ Certain projects have backups exported to Amazon S3 (for example, the College of
 >Login to Amazon AWS Console at **[https://console.aws.amazon.com/](https://console.aws.amazon.com/)**.
 
 
-## Passwords, SSH Keys, Development Certificates, Secure Credentails?
+## Passwords, SSH Keys, Development Certificates, Secure Credentails? LastPass.
 
 All secure credentials should be stored in LastPass. For project related credentials, ensure they are placed within a shared folder for that project.
 
