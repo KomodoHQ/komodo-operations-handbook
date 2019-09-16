@@ -7,7 +7,7 @@ Security is of paramount importance here at Komodo, and we expect you to follow 
 
 We employ [LastPass](https://lastpass.com/?ac=1&lpnorefresh=1) in the business to create and store passwords. 
 
-If you are registering for any accounts, either on behalf of the business (e.g. such as a new tool or service) or yourself for business function (such as JIRA) we expect you to generate a random password from LastPass. This password should also be stored in LastPass.
+If you are [registering for any accounts](#where-is), either on behalf of the business (e.g. such as a new tool or service) or yourself for business function (such as JIRA) we expect you to generate a random password from LastPass. This password should also be stored in LastPass.
 
 If the password you are creating is related to a project, rather than yourself, ensure to store it as part of the `Shared-Projects` group in LastPass. If you dont have access to the group, contact a member of management for access.
 
