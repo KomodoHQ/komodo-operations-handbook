@@ -115,7 +115,7 @@ On a growing number of projects today, it is impossible to get access to product
 
 ### Debugging, Manual Testing, Linting and Code Quality
 
-The days of relying solely on `print_r` or `console.log` debub statements are long gone. In addition to these statements, it's perfectly possible to setup breakpoints and additional introspection in your environment, using [Xdebug for PHP](https://xdebug.org/), the [Node Debugger](https://nodejs.org/api/debugger.html), [React Dev Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html) or [Reactotron](https://github.com/infinitered/reactotron) to name but a few.
+The days of relying solely on `print_r` or `console.log` debug statements are long gone. In addition to these statements, it's perfectly possible to setup breakpoints and additional introspection in your environment, using [Xdebug for PHP](https://xdebug.org/), the [Node Debugger](https://nodejs.org/api/debugger.html), [React Dev Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html) or [Reactotron](https://github.com/infinitered/reactotron) to name but a few.
 
 Wherever possible, add [Sentry](https://sentry.io) to your project so that exceptions are caught and reported to Sentry. It's also suggested you read the [Sentry Documentation](https://docs.sentry.io/) to make the most of what it can add to your debugging toolset.
 
