@@ -24,14 +24,13 @@ Generally, we would expect some of the following to be installed on your Mac, as
 
 **As outlined in the [Security Policy](#security-policy) - please exercise reasonable due diggilence when installing software on your Mac.**
 
-
 ## Project Development
 
 Some elements that exist on every project are detailed here. Please follow these conventions.
 
 ### Git, Git Flow and Pull Requests / Peer Review
 
-At Komodo, just about all our projects use Git for source control (theres some super legacy mercurial, but nothing from the last 5 years). Please use Git everywhere! 
+At Komodo, just about all our projects use Git for source control (there's some super legacy mercurial, but nothing from the last 5 years). Please use Git everywhere! 
 
 For greenfield projects, please create the project on [GitHub](https://github.com/). Most existing projects are on [Bitbucket](https://bitbucket.org/dashboard/overview) - we may consider migrating the active ones to GitHub next year, but for now, please carry on using BitBucket for these.
 
@@ -39,9 +38,9 @@ All projects follow the [**Git Flow** branching strategy](https://www.atlassian.
 
 >The only exception to the standard Git Flow strategy that we make is that we usually omit `release` branches to save on complexity. Check your project to see if we are using `release` branches or not.
 
-Essentialy, you have 4 branch types:
+Essentially, you have 4 branch types:
 
- - `master`: should always be releaseable, and is used for "production".
+ - `master`: should always be releasable, and is used for "production".
  - `develop`: where new developments are integrated and tested together. 
  - `feature`: where a new feature is developed, in isolation. Must be branched from `develop` and integrated back to `develop`.
  - `hotfix`: used sparingly - where a fix for a problem must be made as fast as possible to `master` - bypassing `develop`.
@@ -71,7 +70,7 @@ As per [this highly rated README template](https://gist.github.com/PurpleBooth/1
 
 In addition to the `README.md`, its great to see a `docs` folder with any relevant technical notes or discussions about the project. Some examples what might exist in the `docs` folder include:
 
- - A reference / backround to the project - including links to proposal, designs etc
+ - A reference / background to the project - including links to proposal, designs etc
  - A summary of the technology choices made on the project, and their reasoning
  - Infastructure and architecture summaries + diagrams
  - Any relevant development / testing processes
@@ -90,7 +89,7 @@ Ideally, you should be able to start development on a project with a single line
 This command should do everything required to go from nothing to a working development environment, ready to start coding, with the only assumption being that you have checked out the project repository to your local machine. Examples of tasks this command should do include:
 
  - Provision and boot an environment
- - Install all relevant OS, system and application dependancies
+ - Install all relevant OS, system and application dependencies
  - Setup a development database, and a test database if required
  - Seed some up to date test data if needed
  - Setup a `watcher` to ensure code changes are refreshed automatically
@@ -100,11 +99,11 @@ This command should do everything required to go from nothing to a working devel
 
 ### Environments, Configuration and Feature Flags
 
-Wherever possible, try to ensure that your development environment, QA environment, and any other environments mirror your production environment. Ideally, there should be a one to one parity between all environments, such that they are exactly the same, except for configuration options and database content. This is the best way to ensure that the code you create will behave consistantly for end users as it did during testing.
+Wherever possible, try to ensure that your development environment, QA environment, and any other environments mirror your production environment. Ideally, there should be a one to one parity between all environments, such that they are exactly the same, except for configuration options and database content. This is the best way to ensure that the code you create will behave as consistently for end users as it did during testing.
 
 Use `ENV` variables, housed in `.env` files, to configure your environments. **Never commit these into the project repo**. If necessary, include a `.example.env` in the project repository with sensible development environment variables setup for people to get going. 
 
-Where relevant, use [feature flags](https://en.wikipedia.org/wiki/Feature_toggle) to enable or disable functionality within an environment with relative ease. This is especially useful in gating unfinished developments in code, allowing you to keep releaseing quickly, even with unfinished functionality.
+Where relevant, use [feature flags](https://en.wikipedia.org/wiki/Feature_toggle) to enable or disable functionality within an environment with relative ease. This is especially useful in gating unfinished developments in code, allowing you to keep releasing quickly, even with unfinished functionality.
 
 ### Database, Database Migrations and Access To Live Data
 
@@ -178,13 +177,13 @@ We strive to employ the latest versions of PHP, but some legacy projects go back
 Generally, PHP projects will come in one of 3 variants.
 
 #### Laravel
-[Laravel](https://laravel.com/) is our preferred PHP stack for most projects. Its straightforward, well supported, scaleable, and has a good library of tools, components and libraries to aid in development.
+[Laravel](https://laravel.com/) is our preferred PHP stack for most projects. It's straightforward, well supported, scalable, and has a good library of tools, components and libraries to aid in development.
 
 #### Symfony
-[Symfony](https://symfony.com/) is used on one specific project. Its powerful and fast, but complicated. 
+[Symfony](https://symfony.com/) is used on one specific project. It's powerful and fast, but complicated. 
 
 #### WordPress
-[WordPress](https://en-gb.wordpress.org/) is the worlds most widely used CMS. We tend to treat it as a necessary evil, appropraite for some projects. Checkout `Sage`, `Bedrock` and `Trellis` by [Roots](https://roots.io/) as they will **REALLY** help you in getting started and creating a secure, maintainable and well structured site.
+[WordPress](https://en-gb.wordpress.org/) is the worlds most widely used CMS. We tend to treat it as a necessary evil, appropriate for some projects. Checkout `Sage`, `Bedrock` and `Trellis` by [Roots](https://roots.io/) as they will **REALLY** help you in getting started and creating a secure, maintainable and well structured site.
 
 ### JavaScript Lead Web
 
@@ -212,7 +211,7 @@ We continue to support some existing C# based [Xamarin](https://dotnet.microsoft
 
 #### Objective-C
 
-There is only project left "supported" for [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), and its not anticipated for any new projects to be written in this language.
+There is only project left "supported" for [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), and it's not anticipated for any new projects to be written in this language.
 
 ---
 
