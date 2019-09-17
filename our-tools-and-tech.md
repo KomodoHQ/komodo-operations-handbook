@@ -9,6 +9,20 @@ We employ a diverse set of tools and technologies at Komodo, so before we go any
 
 ## Your Mac
 
+If at all possible, we recommend using [Homebrew](https://brew.sh/) to install, update and maintain applications on your Mac. Homebrew gives much finer control of which applications are installed on your machine, what versions, and when they are updated. It also is more straightforward that hunting the internet for how to update an app in a lot of cases.
+
+Generally, we would expect the following to be installed on your Mac:
+
+ - IDE / Code editors - such as [PHPStorm](https://www.jetbrains.com/phpstorm/), [Visual Studio](https://visualstudio.microsoft.com/vs/mac/), [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/), [XCode](https://developer.apple.com/xcode/) etc.
+ - Browsers - such as [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-GB/firefox/new/), [Safari](https://www.apple.com/uk/safari/), [MS Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge) etc.
+ - Team comms - [Slack](https://slack.com/intl/en-gb/) 
+ - Database browsers - such as [Sequel Pro](https://www.sequelpro.com/), [Robo3T](https://robomongo.org/) etc.
+ - GIT browser - such as [SourceTree](https://www.sourcetreeapp.com/)
+ - Dev Environment Tools - such as [Docker For Mac](https://docs.docker.com/docker-for-mac/install/), [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+>The above list is far from exhaustive, but is more an indication of what is sensible. Apps like [Spotify](https://www.spotify.com/uk/) are also fine.
+
+**As outlined in the [Security Policy](#security-policy) - please exercise reasonable due diggilence when installing software on your Mac.**
 
 
 ## Project Development
@@ -92,16 +106,6 @@ Use `ENV` variables, housed in `.env` files, to configure your environments. **N
 
 Where relevant, use [feature flags](https://en.wikipedia.org/wiki/Feature_toggle) to enable or disable functionality within an environment with relative ease. This is especially useful in gating unfinished developments in code, allowing you to keep releaseing quickly, even with unfinished functionality.
 
-### Tests
-
-It's expected that any greenfield project should have suitable test frameworks in place from commencement, with standards agreed between the team to detail what is in scope for testing, how it will be tested, and what measures of quality will be enforced for testing on the project.
-
-Some existing projects have tests, others do not (particularly inherited or legacy projects). Where possible, please try to always improve on the code you receive - adding tests for functionality you create, even if none existed before. If you're unsure here, talk to the project lead and DTL to determine a sensible way forward. 
-
-Where possible, ensure there is a test `watcher` on your project, so that as code and tests are updated, all tests are rerun to verify continued functionality.
-
->It is reasonable that tests might not be included on your project, due to time, complexity or relevancy. Confirm with the project team.
-
 ### Database, Database Migrations and Access To Live Data
 
 You're expected to ensure that any changes to the database structure or content that are not transient, MUST be made through the use of [database migrations](https://en.wikipedia.org/wiki/Schema_migration). Generally at Komodo, for PHP projects, we leverage [Laravel's Migrations](https://laravel.com/docs/5.8/migrations) or [Symfony's Migrations](https://symfony.com/doc/master/bundles/DoctrineMigrationsBundle/index.html). For JavaScript projects, check out [Knex](http://knexjs.org/#migrations).
@@ -110,13 +114,27 @@ Database schema should be reasonable and justifiably thought out, considering [n
 
 On a growing number of projects today, it is impossible to get access to production data. As such, consider the implications of design decisions, logging and changes when building your database.
 
-### Debugging, Linting and Code Quality
+### Debugging, Manual Testing, Linting and Code Quality
 
 The days of relying solely on `print_r` or `console.log` debub statements are long gone. In addition to these statements, it's perfectly possible to setup breakpoints and additional introspection in your environment, using [Xdebug for PHP](https://xdebug.org/), the [Node Debugger](https://nodejs.org/api/debugger.html), [React Dev Tools](https://reactjs.org/blog/2019/08/15/new-react-devtools.html) or [Reactotron](https://github.com/infinitered/reactotron) to name but a few.
 
 Wherever possible, add [Sentry](https://sentry.io) to your project so that exceptions are caught and reported to Sentry. It's also suggested you read the [Sentry Documentation](https://docs.sentry.io/) to make the most of what it can add to your debugging toolset.
 
 Beyond these tools, we can help ourselves minimise on errors in the project, by ensuring we have relevant automated help. Linters, such as [ESLint](https://eslint.org/) for JavaScript or [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer) for PHP can detect and automatically fix stylistic problems in code that might result in errors. [Test watchers](https://continuousdelivery.com/foundations/test-automation/) can continuously scan the project for changes in code and test, rerunning your tests on change to ensure functionality is maintained.
+
+We have a device library in the office, with a range of mobile and tablet devices to test websites and applications on. Beyond this, we have a [Browserstack](https://www.browserstack.com/) account, enabling testing across a vast array of virtual devices and browsers, and its use is strongly encouraged as part of manual testing and QA.
+
+Whilst not strictly a debugging tool, [BrowserSync](https://www.browsersync.io/) is a fantastic project that enables you to develop on projects and test across all browsers in a "synchronised" fashion. It has an array of features from network throttling to file synchonisation and is relatively straightforward to add to projects.
+
+### Automated Tests
+
+It's expected that any greenfield project should have suitable test frameworks in place from commencement, with standards agreed between the team to detail what is in scope for testing, how it will be tested, and what measures of quality will be enforced for testing on the project.
+
+Some existing projects have tests, others do not (particularly inherited or legacy projects). Where possible, please try to always improve on the code you receive - adding tests for functionality you create, even if none existed before. If you're unsure here, talk to the project lead and DTL to determine a sensible way forward. 
+
+Where possible, ensure there is a test `watcher` on your project, so that as code and tests are updated, all tests are rerun to verify continued functionality.
+
+>It is reasonable that tests might not be included on your project, due to time, complexity or relevancy. Confirm with the project team.
 
 ### Bug Reporting
 
@@ -147,17 +165,55 @@ _What_ is monitored will vary from project to project. Check with the PM / AM cu
 
 ## Technologies and Company Experts
 
-- Mac OS
-  - Brew
+In general, the company has three primary technology approachs, with their various supporting technology stacks employed across our projects. Within the team, there are experts that should be able to help you out when working with these stacks. 
 
-- PHP 
-  - Laravel
-  - WordPress
+This is by no means an exhaustive list, but rather "a good place to start". Read the relevant tool / framework documentation online to understand its latest incantation, and ensure to talk to the senior team when making significant technical decisions.
 
-- JS
-  - Node
-  - React
-  - React Native
+### PHP Lead Web
 
+PHP is one of our ongoing primary web languages in the business. `Scott Salisbury` is a senior PHP developer and the best person to consult when it comes to PHP considerations on projects. 
+
+We strive to employ the latest versions of PHP, but some legacy projects go back all the way to using PHP 5.4.
+
+Generally, PHP projects will come in one of 3 variants.
+
+#### Laravel
+[Laravel](https://laravel.com/) is our preferred PHP stack for most projects. Its straightforward, well supported, scaleable, and has a good library of tools, components and libraries to aid in development.
+
+#### Symfony
+[Symfony](https://symfony.com/) is used on one specific project. Its powerful and fast, but complicated. 
+
+#### WordPress
+[WordPress](https://en-gb.wordpress.org/) is the worlds most widely used CMS. We tend to treat it as a necessary evil, appropraite for some projects. Checkout `Sage`, `Bedrock` and `Trellis` by [Roots](https://roots.io/) as they will **REALLY** help you in getting started and creating a secure, maintainable and well structured site.
+
+### JavaScript Lead Web
+
+JavaScript is the other primary web language in the business. `Chris Neale`, `Jess Kelsall` and `Drew Miley` tend to lead JavaScript projects on the web. 
+ 
+#### Node JS
+
+Used on the back end, [Node](https://nodejs.org/en/) comes in all shapes and sizes. Every node project is different, so make sure to consult extensively with the senior JS devs before making radical technical decisions.
+ 
+#### React
+
+[React](https://reactjs.org/) is our primary frontend framework, used across a number of projects.
+
+### Mobile
+
+Generally, all mobile work done at the company comes under the purview of `Mike Flowers`. There are 3 different variants.
+
+#### React Native
+
+Most greenfield mobile applications are developed with [React Native](https://facebook.github.io/react-native/) enabling a wide array of team members to work on the project.
+
+#### Xamarin C#
+
+We continue to support some existing C# based [Xamarin](https://dotnet.microsoft.com/apps/xamarin) projects, though we do not anticipate any greenfield projects using this technology in future.
+
+#### Objective-C
+
+There is only project left "supported" for [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), and its not anticipated for any new projects to be written in this language.
+
+---
 
 ![Happy Coding!](https://media3.giphy.com/media/25JgMcsSndyuBkoaV2/giphy.gif?cid=790b761139f168c40b5c6e116cde7367d7f39d7195b8cab6&rid=giphy.gif)
