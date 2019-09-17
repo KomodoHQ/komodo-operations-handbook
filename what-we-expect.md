@@ -23,6 +23,7 @@ At Komodo, we expect the following from our team...
  - Ensure that the solution includes (where relevant & prudent)
    - Source control
    - A readme with getting started instructions
+   - A quick start command / script
    - Automated test frameworks
    - Linting and static analysis
    - CI / CD with automated deployments
@@ -37,6 +38,7 @@ At Komodo, we expect the following from our team...
  - Provide suitable recommendations / examples for an alternative solution if you think there is one
  - Be positive - PRs are a learning experience!
  - Evaluate the PR in its wider context - will this PR affect security, performance or maintainability. 
+ - Assess if tests should be included with the PR, and if so are they relevant and do they help improve the quality and maintainability of the solution
  - Where possible, try to ensure that new code does not reduce the overall quality of the existing system, but improves it.
 
   >In summary... "First, do no harm"
