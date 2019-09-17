@@ -7,7 +7,11 @@ We employ a diverse set of tools and technologies at Komodo, so before we go any
  - _Talk to the development team, the DTL and review the proposal before making technology decisions about a new project_
  - _This list of tools & tech may well be out of date - if you're unsure - ask the team!_
 
-## Common
+## Your Mac
+
+
+
+## Project Development
 
 Some elements that exist on every project are detailed here. Please follow these conventions.
 
@@ -116,13 +120,32 @@ Beyond these tools, we can help ourselves minimise on errors in the project, by 
 
 ### Bug Reporting
 
+This is topic in and of itself, so if you need to report a bug, [read the bug reporting docs](#bug-reporting).
 
+### CI, CD and Deployment
 
-- Bug reporting template
-- Deployment
-- Monitoring
+[CI](https://en.wikipedia.org/wiki/Continuous_integration) and [CD](https://en.wikipedia.org/wiki/Continuous_delivery) are setup for just about every recent project we have worked on, and are expected to be configured for new greenfield projects. These tools support you in ensuring what you create is well tested, maintains its functionality, and is deployed in a timely manner. At Komodo, the sevices we have used for this are:
 
-Tech and People
+ - [CodeShip](https://codeship.com/) for lighter, more straightforward CI + CD
+ - [Jenkins](https://jenkins.io/) for heavier, more complex CI + CD
+ - [CircleCI](https://circleci.com/) for a specific project, being considered for more extensive use on future projects
+ - [Microsoft App Center](https://appcenter.ms/apps) for mobile projects
+
+In general CI / CD should be configured to:
+
+ - Build / Compile the project and verify its integrity
+ - Run tests to ensure continued functionality
+ - Lint the project to maintain code quality
+ - Automatically deploy the project (where relevant)
+ - Notify developers of issues with the project and its build, tests or deployment
+
+### Monitoring
+
+Once deployed, we should ensure reasonable monitoring systems are in place to ensure continued availability. Responsibility for _who_ is monitoring the system is assumed to be the customer, unless we agree to provide this as part of an SLA agreement / maintenance agremement. 
+
+_What_ is monitored will vary from project to project. Check with the PM / AM customer and the rest of the development team when setting up monitoring. [Uptime Robot](https://uptimerobot.com/) is a free solution we employ that you can use for website / web app uptime monitoring and notifications. [Sentry](https://sentry.io) will also send us exception reports from production environments when configured to do so. [Microsoft App Center](https://appcenter.ms/apps) also can be configured to capture mobile app crash reports.
+
+## Technologies and Company Experts
 
 - Mac OS
   - Brew
