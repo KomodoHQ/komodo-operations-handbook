@@ -16,7 +16,7 @@ Generally, we would expect some of the following to be installed on your Mac, as
  - IDE / Code editors - such as [PHPStorm](https://www.jetbrains.com/phpstorm/), [Visual Studio](https://visualstudio.microsoft.com/vs/mac/), [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/), [XCode](https://developer.apple.com/xcode/) etc.
  - Browsers - such as [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-GB/firefox/new/), [Safari](https://www.apple.com/uk/safari/), [MS Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge) etc.
  - Team comms - [Slack](https://slack.com/intl/en-gb/) 
- - Database browsers - such as [Sequel Pro](https://www.sequelpro.com/), [Robo3T](https://robomongo.org/) etc.
+ - Database browsers - such as [Sequel Pro](https://www.sequelpro.com/), [DBeaver](https://dbeaver.io/), [Robo3T](https://robomongo.org/) etc.
  - GIT browser - such as [SourceTree](https://www.sourcetreeapp.com/)
  - Dev Environment Tools - such as [Docker For Mac](https://docs.docker.com/docker-for-mac/install/), [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
