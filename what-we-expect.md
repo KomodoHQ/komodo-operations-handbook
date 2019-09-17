@@ -70,9 +70,9 @@ At Komodo, we expect the following from our team...
 
 ---
 
->Note: This list is far from exhaustive, but indicative of the mindset we expect the team to adopt. 
+>Note: This list is far from exhaustive, but indicative of the mindset the team should adopt. 
 
->Note: There are exceptions to every rule. Excercise your best judgement, responsibly
+>Note: There are exceptions to every rule. Exercise your best judgement, responsibly.
 
 ---
 
