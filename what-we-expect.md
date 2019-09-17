@@ -68,3 +68,12 @@ At Komodo, we expect the following from our team...
  - Explain and justify your point of view, considering the technical capabilities and understanding of the person you're speaking to
  - Ensure the customer is up to date and aware of the current situation, and present all relevant options for them to consider
 
+---
+
+>Note: This list is far from exhaustive, but indicative of the mindset we expect the team to adopt. 
+
+>Note: There are exceptions to every rule. Excercise your best judgement, responsibly
+
+---
+
+![Make it So](https://media1.giphy.com/media/bKnEnd65zqxfq/giphy.gif?cid=790b76112b0781e717771f90da6fc4031e782e567fbf2b7d&rid=giphy.gif)
