@@ -211,7 +211,7 @@ We continue to support some existing C# based [Xamarin](https://dotnet.microsoft
 
 #### Objective-C
 
-There is only project left "supported" for [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), and it's not anticipated for any new projects to be written in this language.
+There is only one project left "supported" for [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), and it's not anticipated for any new projects to be written in this language.
 
 ---
 
