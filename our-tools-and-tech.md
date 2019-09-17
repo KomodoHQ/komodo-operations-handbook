@@ -11,7 +11,7 @@ We employ a diverse set of tools and technologies at Komodo, so before we go any
 
 If at all possible, we recommend using [Homebrew](https://brew.sh/) to install, update and maintain applications on your Mac. Homebrew gives much finer control of which applications are installed on your machine, what versions, and when they are updated. It also is more straightforward that hunting the internet for how to update an app in a lot of cases.
 
-Generally, we would expect the following to be installed on your Mac:
+Generally, we would expect some of the following to be installed on your Mac, as relevant to your project:
 
  - IDE / Code editors - such as [PHPStorm](https://www.jetbrains.com/phpstorm/), [Visual Studio](https://visualstudio.microsoft.com/vs/mac/), [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/), [XCode](https://developer.apple.com/xcode/) etc.
  - Browsers - such as [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-GB/firefox/new/), [Safari](https://www.apple.com/uk/safari/), [MS Edge](https://www.microsoft.com/en-gb/windows/microsoft-edge) etc.
@@ -20,7 +20,7 @@ Generally, we would expect the following to be installed on your Mac:
  - GIT browser - such as [SourceTree](https://www.sourcetreeapp.com/)
  - Dev Environment Tools - such as [Docker For Mac](https://docs.docker.com/docker-for-mac/install/), [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
->The above list is far from exhaustive, but is more an indication of what is sensible. Apps like [Spotify](https://www.spotify.com/uk/) are also fine.
+>The above list is far from exhaustive, but is more an indication of what is sensible. Apps like [Spotify](https://www.spotify.com/uk/) are also fine. None of the above are _required_, simply suggestions.
 
 **As outlined in the [Security Policy](#security-policy) - please exercise reasonable due diggilence when installing software on your Mac.**
 
