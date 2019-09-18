@@ -45,7 +45,7 @@ Essentially, you have 4 branch types:
  - `feature`: where a new feature is developed, in isolation. Must be branched from `develop` and integrated back to `develop`.
  - `hotfix`: used sparingly - where a fix for a problem must be made as fast as possible to `master` - bypassing `develop`.
 
-All `feature` branches should be [pull requested](https://help.github.com/en/articles/about-pull-requests) and if possible, peer reviewed (whereby developers sit together and discuss / reason about / review the created code), before being integrated into `develop`. If the quality of what has been created is not acceptable, ensure you comment on the PR with suitable explanations as to how to improve it. 
+All `feature` branches should be [pull requested](https://help.github.com/en/articles/about-pull-requests) and if possible, peer reviewed (whereby developers sit together and discuss / reason about / review the created code), before being integrated into `develop`. If you have questions, suggestions, or potential improvements to the created code, please comment on the PR with suitable explanations as to how to revise it. It is very important to ensure, and maintain, code quality on a project.
 
 ### README.md
 
