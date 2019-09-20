@@ -1,4 +1,4 @@
-![Komodo](https://www.komododigital.co.uk/static/62cf10ad3d90e09b299663c87a03c2bb/43424/Komodo_black%403x.webp)
+![Komodo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZdc3gAgT23t7Xt6hvys-04scB4vmxizu7CjmaA2aQ0uza86FD)
 
 # Development Team Operations Handbook
 
