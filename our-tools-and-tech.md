@@ -1,5 +1,4 @@
 # Our Tools, Tech and Process!
----
 
 We employ a diverse set of tools and technologies at Komodo, so before we go any further please remember the following:
 
