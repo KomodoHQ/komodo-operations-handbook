@@ -1,5 +1,4 @@
 # What We Expect
----
 
 At Komodo, we expect the following from our team...
 
