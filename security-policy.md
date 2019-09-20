@@ -10,7 +10,7 @@ If you are [registering for any accounts](where-is.md), either on behalf of the 
 
 If the password you are creating is related to a project, rather than yourself, ensure to store it as part of the `Shared-Projects` group in LastPass. If you dont have access to the group, contact a member of management for access.
 
-## Two-Factor Everywhere
+## Two-Factor Everywhere
 
 Please ensure that **for every account you employ related to the business, you add two-factor authentication**. Our recommended app is Google Authenticator ([for iOS](https://apps.apple.com/us/app/google-authenticator/id388497605) / [for Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_GB)).
 
