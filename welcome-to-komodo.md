@@ -1,9 +1,6 @@
 # Welcome To Komodo!
----
 
-Hi!
-
-Welcome to Komodo - it's a pleasure to have you join our team!
+Hi! Welcome to Komodo - it's a pleasure to have you join our team!
 
 ## Your First Day
 
