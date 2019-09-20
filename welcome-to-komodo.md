@@ -58,6 +58,8 @@ During probation, you are expected to:
  - Contribute dilligently to the teams output
  - Be in full attendence on premises within the business, during core business hours
  - Demonstrate understanding of the business core values
+ 
+Throughout your time at Komodo, please ensure you understand [What We Expect](what-we-expect.md)
 
 ## Happy Coding!
 
