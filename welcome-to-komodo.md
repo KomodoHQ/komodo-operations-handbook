@@ -19,7 +19,12 @@ On your first day, here's the rough outline of what you will be up to:
    - Air (_HR_)
    
  - Get introduced to the team and have a quick office tour
+ - Setup your development environment (see [Our Tools And Tech](#OurToolsAndText))
  
+## Your First Week
+
+This week, there will be a few meetings you need to attend, that should already be booked in for you:
+
  - Have a chat with the office manager to talk about:
    - Building access and door codes
    - Holiday
@@ -39,8 +44,6 @@ On your first day, here's the rough outline of what you will be up to:
    - Discuss work plan
    - Discuss security (see [Security](#Security))
    - Discuss development resources (see [Where Is](#WhereIs))
-   
- - Setup your development environment (see [Our Tools And Tech](#OurToolsAndText))
 
 ## Probation Period
 
