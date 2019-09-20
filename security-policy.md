@@ -1,5 +1,4 @@
-# Security Policy
----
+# Security Policy
 
 Security is of paramount importance here at Komodo, and we expect you to follow the details within this document to the best of your ability. 
 
