@@ -49,15 +49,19 @@ At Komodo, we expect the following from our team...
  - Consider who you are sharing this data with, and by what means, and if they are authorised to have this data
  - Consider who else may get access to this sensitive data, and what means of preventing that you are employing
  - Consider if you or other parties even need this data
- - Consider if this data is still revelant to you
- - Ensure to "clean up after yourself" - dont persist sensitive data thats no longer need
+ - Consider if this data is still relevant to you
+ - Ensure to "clean up after yourself" - don't persist sensitive data that's no longer needed
 
 ## When Collaborating with the Team
 
  - Consider how your actions and what you create will affect other members on the team
- - Ask for support when you are unusure how to proceed
- - Ensure significant project decisions are taken in consultation with senior members on the project
- - Maturely evalute and seek to understand each others point of view
+ - Ask for support when you are unsure how to proceed
+ - Ensure significant project decisions are taken in consultation with senior members on the project. Some examples include:
+   - Adding or removing key frameworks or libraries which the system may depend on
+   - Implementing architectural changes to the project
+   - Modifying application infrastructure
+   - Working with 3rd party dependencies / APIs
+ - Maturely evaluate and seek to understand each others point of view
  - Treat each others point of view with respect
  - Demonstrate your point of view with facts, example and reason
  - Work together to agree a path forward
