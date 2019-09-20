@@ -19,7 +19,7 @@ On your first day, here's the rough outline of what you will be up to:
    - Air (_HR_)
    
  - Get introduced to the team and have a quick office tour
- - Setup your development environment (see [Our Tools And Tech](#OurToolsAndText))
+ - Setup your development environment (see [Our Tools And Tech](our-tools-and-tech.md))
  
 ## Your First Week
 
@@ -42,8 +42,8 @@ This week, there will be a few meetings you need to attend, that should already 
      - How any problems with performance will be addressed
      - When the probationary period review meeting will take place
    - Discuss work plan
-   - Discuss security (see [Security](#Security))
-   - Discuss development resources (see [Where Is](#WhereIs))
+   - Discuss security (see [Security](security-policy.md))
+   - Discuss development resources (see [Where Is](where-is.md))
 
 ## Probation Period
 
