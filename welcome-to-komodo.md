@@ -1,9 +1,6 @@
 # Welcome To Komodo!
----
 
-Hi!
-
-Welcome to Komodo - it's a pleasure to have you join our team!
+Hi! Welcome to Komodo - it's a pleasure to have you join our team!
 
 ## Your First Day
 
@@ -19,7 +16,12 @@ On your first day, here's the rough outline of what you will be up to:
    - Air (_HR_)
    
  - Get introduced to the team and have a quick office tour
+ - Setup your development environment (see [Our Tools And Tech](our-tools-and-tech.md))
  
+## Your First Week
+
+This week, there will be a few meetings you need to attend, that should already be booked in for you:
+
  - Have a chat with the office manager to talk about:
    - Building access and door codes
    - Holiday
@@ -37,10 +39,8 @@ On your first day, here's the rough outline of what you will be up to:
      - How any problems with performance will be addressed
      - When the probationary period review meeting will take place
    - Discuss work plan
-   - Discuss security (see [Security](#Security))
-   - Discuss development resources (see [Where Is](#WhereIs))
-   
- - Setup your development environment (see [Our Tools And Tech](#OurToolsAndText))
+   - Discuss security (see [Security](security-policy.md))
+   - Discuss development resources (see [Where Is](where-is.md))
 
 ## Probation Period
 
@@ -58,6 +58,8 @@ During probation, you are expected to:
  - Contribute dilligently to the teams output
  - Be in full attendence on premises within the business, during core business hours
  - Demonstrate understanding of the business core values
+ 
+Throughout your time at Komodo, please ensure you understand [What We Expect](what-we-expect.md)
 
 ## Happy Coding!
 
