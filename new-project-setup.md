@@ -78,20 +78,44 @@ Unless otherwise instructed, code should be placed under GIT source control, and
    - Database Backups
  - Avoid storing large files in GIT - doing this will really slow stuff down. E.g. Dont place Sketch / PSDs in the repo.
 
-## Helpful Technology
+## Helpful Starter Technology
 
 Whilst every project is different, below is a generic list of technology elements that have been used in the past at Komodo, and may be helpful for your project. These elements are grouped by their top level technology approach.
 
 ### PHP - WordPress
 
+The [Roots](https://roots.io/) collection of tools - [Sage](https://roots.io/sage/), [Bedrock](https://roots.io/bedrock/) and [Trellis](https://roots.io/trellis/) provide the foundations for a robust, scaleable and modern WordPress based solution. Whilst you do not have to use all the elements, working together they are fantastic for most greenfield projects that we are in control of. From project structure, to infrastructure provisioning, to theme development, they follow industry best practice, and are very well documented. Use them.
+
 ### PHP - Laravel
+
+We have our [own Laravel Bootstrap](https://github.com/KomodoHQ/docker-laravel), that could be a reasonable starter point. 
+
+Also, checkout [Backpack for Laravel](https://backpackforlaravel.com), which is great and speedy for admin panel / CRUD type stuff.
+
+We also have some [scripts to help provision Linode servers]() for PHP / MySQL stacks of this nature.
+
+> @TODO: Add these to our github.
 
 ### Node - Express / API
 
+[PM2](http://pm2.keymetrics.io/) is a fantastic tool for doing process monitoring, enabling your to keep an express server running indefintely.
+
+> @TODO: Create / Recommend a good boilerplate here
+
 ### Node - Command Line
+
+[Commander](https://github.com/tj/commander.js/) is a great library to help build command line interfaces in node.
+
+[Inquirer](https://github.com/SBoudrias/Inquirer.js) helps with the above, allow a TTY type interface for questions and answers that perform actions. 
+
+> @TODO: Create / Recommend a good boilerplate here
 
 ### React
 
+[Create React App](https://github.com/facebook/create-react-app) is the de-facto bootstrap for building React web applications.
+
+[Gatsby](https://github.com/gatsbyjs/gatsby) is a framework for building React static web-apps / sites sourcing content from a variety of locations.
+
 ### React Native
 
-### Infrastructure and Hosting
+[Ignite](https://github.com/infinitered/ignite) is a CLI to help construct React Native projects, including common elements needed for most apps, from state management to debugging tools.
