@@ -26,6 +26,7 @@ In general, the following template should suffice for reporting a bug.
  - Operating System: XXX
  - Browser: XXX
  - URL: XXX
+ - Date(s) & Time(s) of when bug occured: XXX
 
 > This should be the configuration of the environment that was used to reproduce the issue.
 
