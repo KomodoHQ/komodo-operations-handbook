@@ -65,3 +65,7 @@ Every Monday, the seniors in the team are invited to attend the Senior Team Meet
 ### Flexible Hours
 
 7am - 7pm, Monday to Friday.
+
+---
+
+![My House!](https://media3.giphy.com/media/xT4uQ6BJ5e7zqfzAiY/giphy.gif?cid=790b7611bf3479ca8de78f266a16a5d77dbfbfa7bcb781d5&rid=giphy.gif)
