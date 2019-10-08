@@ -41,3 +41,5 @@ In general, the following template should suffice for reporting a bug.
 ---
 
 If you need a "tailored" bug reporting template, checkout https://github.com/devspace/awesome-github-templates.
+
+![Bug!](http://i.imgur.com/ZjiFJ3D.gif)
