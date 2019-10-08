@@ -119,3 +119,7 @@ We also have some [scripts to help provision Linode servers]() for PHP / MySQL s
 ### React Native
 
 [Ignite](https://github.com/infinitered/ignite) is a CLI to help construct React Native projects, including common elements needed for most apps, from state management to debugging tools.
+
+---
+
+![Do, or do not!](https://media1.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif?cid=790b7611688c332e7405796f33d21238f991d32df2cefeae&rid=giphy.gif)
