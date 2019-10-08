@@ -16,17 +16,33 @@ Your Mac should already have FileVault encryption enabled. Please make sure it c
 
 ### Naming and Accounts
 
-We are in the process of
+We are in the process of re-provisioning Macs, and applying a standard naming convention to them. Following your reformat, you should be given a "Top Gun Callsign" to identify your Mac. There should be an `Administrator` account, and you should have your own login account. Please use your own login account to work with the machine.
 
-   - BYOD and testing
-   - Desks
-   
- - Software
-   - Purchasing
-   - Accounts
+### Your Devices and Testing
 
- - Ops
-   - Senior Team Meeting
+Whilst you are welcome to bring your own devices into work, please ensure they are connected to the guest WiFi. We recognise that, on occasion, you may need to use your own device for testing code / applications - please ensure you have the approval of the Head of Development before undertaking this action.
+
+### Desks
+
+As a general point, your desk is your own, and within reason, yours to put personal items on as you see fit. Please keep it clean, clutter free, and professional.
+
+## Software
+
+Software on your Mac may be audited at any point, and it is your responsiblity to ensure the software on it is reasonable and acceptable for business cases. 
+
+### Premium Software
+
+Should you require a "paid for" piece of software, you must seek approval from the Head of Development. 
+
+### Accounts
+
+Whenever signing up for accounts on behalf of the business (i.e. Komodo), ensure to sign up using a relevant group email address. If in doubt, use `accounts@komododigital.co.uk`, or speak to the Head of Development.
+
+## Operations
+
+### Senior Team Meeting
+
+Every Monday, the seniors in the team are invited to attend the Senior Team Meeting. This meeting discusses the projects the seniors are overseeing, and discusses the team and moral. Please ensure to update the Senior Team Meeting Agenda document on Friday, in preperation for the meeting.
 
 ## Handy Business Info
 
@@ -40,7 +56,7 @@ We are in the process of
 
 ### Business Hours
 
-9am - 5pm, Monday to Friday.
+9am - 5pm, Monday to Friday. Closed on bank holidays.
 
 ### Core Hours
 
