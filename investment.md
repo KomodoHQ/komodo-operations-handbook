@@ -29,6 +29,6 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
 10. Easier to get help.
    - _"I wish it was harder to get issues resolved"_
 
-## Investment Proposals
+## Investment Ideas
 
-1.
+1. What are the barriers to faster deliver?
