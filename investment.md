@@ -4,7 +4,7 @@ _“Find the things that won’t change in your business and invest heavily in t
 
 _“Take Amazon for example… 10 years from now people aren’t going to say ‘I wish Amazon shipping was slower’ or ‘I wish Amazon had a worse selection’, so we invest heavily in fast shipping and a broad selection.”_
 
-With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/about)), this document is a discussion around what we should invest in as a development company.
+With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/about)), this document is a discussion around what we should invest in as with regards to the development arm of the company.
 
  - Faster to deliver functionality
    - _"I wish Komodo delivered that feature slower"_
@@ -24,3 +24,5 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
    - _"I wish less of my team understood how things work"_
  - Easier to get help
    - _"I wish it was harder to get issues resolved"_
+
+   
