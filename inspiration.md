@@ -25,3 +25,7 @@ With that it mind, this document is intended to be a collective list of "our ins
  - [Jamon Holmgren (JS / Ignite CTO)](https://twitter.com/jamonholmgren)
  - [Taylor Otwell (PHP / Laravel)](https://twitter.com/taylorotwell)
  - [Jeffrey Way (PHP / Laravel)](https://twitter.com/jeffrey_way)
+
+ 
+---
+![Lightbulb](https://media2.giphy.com/media/aQ4tetVxRZao0/giphy.gif?cid=790b761138e6ccc5f09c314e12199fb7689ea2c7aac138de&rid=giphy.gif)
