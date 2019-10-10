@@ -113,7 +113,8 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Have reusable tools to understand their performance and improve on it
   - Leverage performant, lean libraries and code - expel those that are not
   - Dedicated performance and refactoring sprints, measure and improve
-  - Set a target for performance, dont allow what's created to exceed it
+  - Set a target for performance, don't allow what's created to exceed it
+  - Understand different techniques for building efficient queries and when to use them, e.g. eager loading, lazy loading, etc. 
 
 9. How can we educate our customers?
 
