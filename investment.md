@@ -121,6 +121,7 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Documentation of features, and decisions
   - Clear "sign off" should include educational content
   - As much "familiar" decisions as possible - and reusable documentation for all
+  - Inform customers of our development and project management workflows and what they can do to assist us during the project
 
 10. How can we better support our customers?
 
