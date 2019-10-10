@@ -96,6 +96,7 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Have a documentated plan for every piece of private information to explain when it will be pruned
   - Ensure there is a way to delete / anonymise private information
   - Silo private data away from application data
+  - Build applications with GDPR and "the right to be forgotten" in mind from the very beginning
 
 7. How can we monitor and improve the security of our applications?
 
