@@ -41,7 +41,7 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Understand the problem from the outside
   - Don't reinvent the wheel
   - Stop creating / maintaining overly-complex engineered systems
-  - Having to (re)learn systems, especially poorly documented or maintend ones
+  - Having to (re)learn systems, especially poorly documented or maintained ones
   - Having to (re)learn tools and technologies, particularly old and slow ones, with poor documentation and inconsistant standards
   - Worries about breaking other parts of the system
   - Scared about breaking production environments, affecting real people
@@ -56,7 +56,7 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Reuse well-tested code
   - More people manually testing with more test devices
   - A clear "sign off" process, internally and externally
-  - Dont consider testing outside the scope of "finished"
+  - Don't consider testing outside the scope of "finished"
   - Technical discussion groups for knowledge sharing
   - Ensure people are well trained, and follow industry and company standards
 
@@ -72,12 +72,12 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
 4. How can we make our applications easier to support? How can we understand and expose the current working state of our applications to customers?
 
   - Constant, ongoing maintenance with dedicated time just to keep stuff up to date (not features, tweaks etc)
-  - Control dependancies and versions
-  - Add monitoring tools for dependancies
+  - Control dependencies and versions
+  - Add monitoring tools for dependencies
   - Be aware of and notified of important changes affecting our applications
   - Dedicated support team dealing with errors / bug reports
   - Application and infrastructure monitoring solutions
-  - Dont support old systems - stay modern
+  - Don't support old systems - stay modern
   - Dedicated support channels
   - Clear bug reports
   - More public betas
@@ -86,7 +86,7 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
 
   - Make some
   - For every feature, have a clear piece of supporting documentation - functional at the least, technical if reasonable
-  - Dont consider documentation outside the scope of "finished"
+  - Don't consider documentation outside the scope of "finished"
   - Include in PRs
   - Standardise documentation - have templates
 
@@ -101,7 +101,7 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
 7. How can we monitor and improve the security of our applications?
 
   - Automated Tooling and continous security alerts
-  - Make someone else resposible for as much as possible thats outside of code
+  - Make someone else responsible for as much as possible thats outside of code
   - Technical discussion groups for knowledge sharing
   - Security audits
   - Checklists
