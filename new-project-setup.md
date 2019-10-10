@@ -10,7 +10,7 @@ A good companion to this document is a summary of [Our Tools and Tech](our-tools
 
 ### Requirements Gathering
 
-The very first thing you should do when approaching a new project, is to make sure you are fully briefed on the functional and non-functional requirements for that project. In order words, your first action should be to thoroughly read the proposal document. 
+The very first thing you should do when approaching a new project, is to make sure you are fully briefed on the functional and non-functional requirements for that project. In other words, your first action should be to thoroughly read the proposal document. 
 
 Upon reviewing the proposal:
 
