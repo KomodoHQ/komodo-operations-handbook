@@ -38,7 +38,8 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Eliminate time waiting for resources / feedback
   - Stop changing tasks and priorities
   - Get rid of slow development environments, jumping through hoops, lack of existing documentation 
-  - Understand the problem from the outside, stop re-engineering
+  - Understand the problem from the outside
+  - Don't reinvent the wheel
   - Stop creating / maintaining overly-complex engineered systems
   - Having to (re)learn systems, especially poorly documented or maintend ones
   - Having to (re)learn tools and technologies, particularly old and slow ones, with poor documentation and inconsistant standards
