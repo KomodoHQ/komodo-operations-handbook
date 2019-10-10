@@ -66,6 +66,7 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
   - Make them very straightforward (limited options)
   - Make them available to more users - accessibility
   - Make them well documented - heres how to do X or Y
+  - Make use of uesr shadowing to observe how users interact with our products, designs and prototypes
   
 4. How can we make our applications easier to support? How can we understand and expose the current working state of our applications to customers?
 
