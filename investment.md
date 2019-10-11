@@ -18,8 +18,8 @@ With the above in mind (shamelessly [stolen from Basecamp](https://basecamp.com/
    - _"I wish it was harder to know when things were working in what Komodo created."_
 5. Well documented.
    - _"I wish it was harder to know how this feature Komodo created worked."_
-6. Privacy concious.
-   - _"I wish more of my customers personal data was publically available because of what Komodo created."_
+6. Privacy conscious.
+   - _"I wish more of my customers personal data was publicly available because of what Komodo created."_
 7. Secure.
    - _"I wish more of my system could be hacked thanks to Komodo."_
 8. Performant.
