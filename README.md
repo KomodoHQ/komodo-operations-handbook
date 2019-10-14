@@ -2,7 +2,6 @@
 
 # Development Team Operations Handbook
 
-
 ## Howdy!
 
 Welcome to the Komodo Development Team Operations Handbook.
