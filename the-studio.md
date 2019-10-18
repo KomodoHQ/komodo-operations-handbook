@@ -20,17 +20,17 @@ We are in the process of re-provisioning Macs, and applying a standard naming co
 
 ### Your Devices and Testing
 
-Whilst you are welcome to bring your own devices into work, please ensure they are connected to the guest WiFi. We recognise that, on occasion, you may need to use your own device for testing code / applications - please ensure you have the approval of the Head of Development before undertaking this action.
+Whilst you are welcome to bring your own devices into work, please ensure they are connected to the guest WiFi. We recognise that, on occasion you may need to use your own device for testing code / applications - please ensure you have the approval of the Head of Development before undertaking this action.
 
 ### Desks
 
-As a general point, your desk is your own, and within reason, yours to put personal items on as you see fit. Please keep it clean, clutter free, and professional.
+As a general point, your desk is your own and within reason, yours to put personal items on as you see fit. Please keep it clean, clutter free, and professional.
 
 ## Software
 
-Software on your Mac may be audited at any point, and it is your responsiblity to ensure the software on it is reasonable and acceptable for business cases. 
+Software on your Mac may be audited at any point, and it is your responsibility to ensure the software on it is reasonable and acceptable for business cases. 
 
-### Premium Software
+### Premium Software
 
 Should you require a "paid for" piece of software, you must seek approval from the Head of Development. 
 
@@ -38,17 +38,17 @@ Should you require a "paid for" piece of software, you must seek approval from t
 
 Whenever signing up for accounts on behalf of the business (i.e. Komodo), ensure to sign up using a relevant group email address. If in doubt, use `accounts@komododigital.co.uk`, or speak to the Head of Development.
 
-## Operations
+## Operations
 
 ### Senior Team Meeting
 
-Every Monday, the seniors in the team are invited to attend the Senior Team Meeting. This meeting discusses the projects the seniors are overseeing, and discusses the team and moral. Please ensure to update the Senior Team Meeting Agenda document on Friday, in preperation for the meeting.
+Every Monday, the seniors in the team are invited to attend the Senior Team Meeting. This meeting discusses the projects the seniors are overseeing, and discusses the team and morale. Please ensure to update the Senior Team Meeting Agenda document on Friday, in preparation for the meeting.
 
 ## Handy Business Info
 
 ### Address
 
-63 Westgate Rd, Newcastle upon Tyne NE1 1SG.
+63 Westgate Rd, Newcastle upon Tyne, NE1 1SG.
 
 ### Phone Number
 
@@ -69,3 +69,4 @@ Every Monday, the seniors in the team are invited to attend the Senior Team Meet
 ---
 
 ![My House!](https://media3.giphy.com/media/xT4uQ6BJ5e7zqfzAiY/giphy.gif?cid=790b7611bf3479ca8de78f266a16a5d77dbfbfa7bcb781d5&rid=giphy.gif)
+
