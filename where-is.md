@@ -2,15 +2,15 @@
 
 ## Email? Gmail.
 
-You should already have an email address setup for your account, which (unless you are told you are an exception for) will be in the format:
+You should already have an email address setup for your account, which (unless you are told otherwise) will be in the format:
 
-_\<firstname>.\<lastname>@komododigital.co.uk_
+_\(firstname).\(lastname)@komododigital.co.uk_
 
 >Login to Gmail at **[https://mail.google.com/mail](https://mail.google.com/mail)**.
 
 ## Project Documents? Google Drive.
 
-Project documents belong in Google Drive, which your GMail user account will give you access to.
+Project documents belong in Google Drive, which your Gmail user account will give you access to.
 
 All project documents should be in a shared folder for that project, administered by the PM / AM / Project Lead.
 
@@ -18,7 +18,7 @@ All project documents should be in a shared folder for that project, administere
 
 ## Work / Project Tasks? JIRA.
 
-You should have an invite to your inbox to JIRA, if not contact a PM. 
+You should have an invite in your inbox to JIRA, if not contact a PM. 
 
 All project tasks should be in JIRA, unless otherwise stated (there are some exceptions on a per-customer basis). 
 
@@ -51,7 +51,7 @@ Certain projects have backups exported to Amazon S3 (for example, the College of
 >Login to Amazon AWS Console at **[https://console.aws.amazon.com/](https://console.aws.amazon.com/)**.
 
 
-## Passwords, SSH Keys, Development Certificates, Secure Credentails? LastPass.
+## Passwords, SSH Keys, Development Certificates, Secure Credentials? LastPass.
 
 All secure credentials should be stored in LastPass. For project related credentials, ensure they are placed within a shared folder for that project.
 
@@ -59,7 +59,7 @@ Items that absolutely should be stored in LastPass (and NOT ANYWHERE ELSE) inclu
 
  - Passwords
  - SSH Keys (private and public)
- - Development Certificates (e.g. ios Distribtion Certificiates)
+ - Development Certificates (e.g. iOS Distribution Certificates)
  - User accounts
  - API Keys
 
@@ -67,13 +67,13 @@ Items that absolutely should be stored in LastPass (and NOT ANYWHERE ELSE) inclu
 
 ## Time Tracking? Harvest.
 
-Generally, your time on projects needs to be recorded. This is done on harvest, which you can login with using your Google Apps / GMail account. If you are not sure where to track your time, please contact an AM / PM.
+Generally, your time on projects needs to be recorded. This is done on Harvest, which you can log into using your Google Apps / Gmail account. If you are not sure where to track your time, please contact an AM / PM.
 
 >Login to Harvest at **[https://id.getharvest.com/accounts](https://id.getharvest.com/accounts)**
 
 ## Booking Holiday / HR? Air.
 
-For HR related tasks, such as booking holiday, we use Air. You can also check you're current holiday allocation and get staff personal details.
+For HR related tasks, such as booking holiday, we use Air. You can also check your current holiday allocation and get staff personal details.
 
 >Login to Air at **[https://app.joinair.com/login?redirectPath=%2F](https://app.joinair.com/login?redirectPath=%2F)**
 
@@ -91,7 +91,7 @@ Project hosting is usually agreed as part of the proposal for the project. Gener
 
 CI / CD tends to be very project specific. Generally though, simple CI / CD processes (for example the Komodo Website build process) is on Codeship. For newer CI / CD processes, we use CircleCI.
 
-For older, more complicated CI / CD processes, we use Jenkins (for example Street Stream), which _tends to be hosted with the platform_. See project documentation for links to this.
+For older, more complicated CI / CD processes, we use Jenkins (for example StreetStream), which _tends to be hosted with the platform_. See project documentation for links to this.
 
 >Login to Codeship at **[https://app.codeship.com/sessions/new](https://app.codeship.com/sessions/new)**
 
