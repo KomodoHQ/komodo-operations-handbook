@@ -25,6 +25,11 @@ Please feel free to open pull requests to help add more to the handbook!
 - [The Studio](the-studio.md) - Office hardware and software, and business related items.
 - [Bug Reporting](bug-reporting.md) - How to report on bugs the right way.
 - [Where Is...?](where-is.md) - A quick reference for commonly needed items as a developer.
+* [The Studio](/the-studio.md) - Information about our offices based in Newcastle Upon Tyne.
+
+## Management Related
+
+* [Onboarding New Staff](/onboarding-new-staff.md) - Procedure for onboarding new team members.
 
 ---
 **Happy Coding!**

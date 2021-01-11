@@ -1,5 +1,7 @@
 # Security Policy
 
+>Audience: Developers, QA, Management
+
 Security is of paramount importance here at Komodo, and we expect you to follow the details within this document to the best of your ability. 
 
 ## Password Policy

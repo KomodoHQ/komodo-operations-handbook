@@ -6,3 +6,5 @@
 * [What We Expect](/what-we-expect)
 * [Bug Reporting](/bug-reporting)
 * [Where Is...?](/where-is)
+* [The Studio](/the-studio)
+* [Onboarding New Staff](/onboarding-new-staff)

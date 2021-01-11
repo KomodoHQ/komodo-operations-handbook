@@ -1,5 +1,7 @@
 # Bug Reporting
 
+>Audience: Developers, QA, Management
+
 Whether it’s an internal bug report made by a developer or QA team member, or it’s an external bug report made by a client, a good bug report can make the difference between an hour worth of development work or a day worth.
 
 In general, the following template should suffice for reporting a bug.

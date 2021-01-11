@@ -1,5 +1,7 @@
 # What We Expect
 
+>Audience: Developers, QA, Management
+
 At Komodo, we expect the following from our team...
 
 ## In General

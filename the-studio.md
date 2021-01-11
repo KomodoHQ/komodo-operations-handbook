@@ -1,5 +1,7 @@
 # The Studio
 
+>Audience: Developers, QA, Management
+
 Some general notes about the studio, particularly (though not exclusively) related to development.
 
 ## Hardware & OS
