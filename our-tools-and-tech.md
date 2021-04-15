@@ -48,6 +48,8 @@ Essentially, you have 4 branch types:
 
 All `feature` branches should be [pull requested](https://help.github.com/en/articles/about-pull-requests) and if possible, peer reviewed (whereby developers sit together and discuss / reason about / review the created code), before being integrated into `develop`. If you have questions, suggestions, or potential improvements to the created code, please comment on the PR with suitable explanations as to how to revise it. It is very important to ensure and maintain code quality on a project.
 
+We also have a [pr checklist](pr-checklist.md) that's helpful to run through before making a new PR.
+
 ### README.md
 
 There should be enough information in every project’s `README.md` to get started with development quickly, and without any support.
