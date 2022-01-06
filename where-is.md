@@ -72,11 +72,11 @@ Generally, your time on projects needs to be recorded. This is done on Harvest, 
 
 >Login to Harvest at **[https://id.getharvest.com/accounts](https://id.getharvest.com/accounts)**
 
-## Booking Holiday / HR? Air.
+## Booking Holiday / HR? Mincoffs.
 
-For HR related tasks, such as booking holiday, we use Air. You can also check your current holiday allocation and get staff personal details.
+For HR related tasks, such as booking holiday, we use Mincoffs. You can also check your current holiday allocation and get staff personal details.
 
->Login to Air at **[https://app.joinair.com/login?redirectPath=%2F](https://app.joinair.com/login?redirectPath=%2F)**
+>Login to Mincoffs at **[https://mincoffs.xyhr.uk/Login.aspx](https://mincoffs.xyhr.uk/Login.aspx)**
 
 ## Hosting? Linode, AWS or Azure.
 
