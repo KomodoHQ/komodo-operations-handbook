@@ -27,7 +27,7 @@ Before speaking to the new team member on the morning they start, there are a nu
  - Slack
  - JIRA
  - Harvest
- - Air
+ - Mincoffs
  - LastPass
 
 ## Setting up hardware (Macs)
@@ -133,6 +133,6 @@ At this point, introduce the team member to the project and give some background
 
 Then, introduce the team member to the other people working on the project, and ask them to support the team member in onboarding.
 
-## Post onboarding check in 
+## Post onboarding check in
 
 At a suitable time after the team member has been onboarded, check in to see how they are settling in, how things are going, do they need any additional support etc.
