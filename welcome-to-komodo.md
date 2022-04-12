@@ -15,7 +15,7 @@ On your first day, here's a rough outline of what you will be up to:
    - Jira (_Tasks_)
    - BitBucket and GitHub (_Code Source Control_)
    - LastPass (_Passwords and Secure Notes_)
-   - Air (_HR_)
+   - Mincoffs (_HR_)
    
  - Be introduced to the company, team structure and key persons related to your role
  - Setup your development environment (see [Our Tools And Tech](our-tools-and-tech.md))
