@@ -50,7 +50,7 @@ Every Monday, the seniors in the team are invited to attend the Senior Team Meet
 
 ### Address
 
-63 Westgate Rd, Newcastle upon Tyne, NE1 1SG.
+Cathedral Buildings, Dean Street, Newcastle Upon Tyne, United Kingdom, NE1 1PG.
 
 ### Phone Number
 
