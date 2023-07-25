@@ -51,6 +51,33 @@ In general, the following template should suffice for reporting a bug.
 
 ---
 
+## Raising feedback in Jira
+
+> General guidance for how feedback should be raised whilst working on KOMODO-managed Jira boards
+
+Tasks and Stories which are placed in the QA column of a board should contain the completed work towards the user story and acceptance criteria outlined in that ticket, however there may be instances where feedback can be given on that work. A QA team member will use this ticket to plan, design, and direct testing efforts and raise any feedback using **child issues** and **Labels** as shown below: 
+
+- A ticket is progressed through In Progress and Peer Review status before reaching QA column
+- Testing is performed on that ticket
+- Feedback is raised as child ticket(s) following guidance outlined in this page
+- Child tickets are assigned a label of **QA**
+- Child tickets are assigned a label which indicates the nature of the feedback using the **Feedback Labels** below
+- Child tickets can be worked on and tested until all children pass
+- Once all children pass, the parent ticket can be tested again and approved
+
+## Feedback Labels
+
+> This should explain the use of each label for QA raised feedback
+
+- **Feedback-Bug**: Used when the feedback identifies a functional defect directly related to the parent ticket. These prevent the software from behaving as expected or the code fails to meet acceptance criteria
+- **Feedback-Omission**: Used when the feedback identifies an omission from the original scope or requirements but should have been included. These could be missing features, functions, behaviours, etc.
+- **Feedback-Enhancement**: Used when the feedback suggests an improvement the scope. These could be accessibility or UX improvements that weren't considered in the scope and would likely be agreed on through Slack discussions or similar
+- **Feedback-Performance**: Used when the feedback identifies performance issues, such as a noticeably slow loading page or asset as part of the parent ticket's additions
+- **Feedback-Security**: Used when the feedback identifies potential security vulnerabilities or concerns including privacy
+- **Feedback-Regression**: Used when the feedback identifies that a previous feature no longer works as intended or a previously fixed issue has reoccurred in a later version
+
+---
+
 If you need a "tailored" bug reporting template, checkout https://github.com/devspace/awesome-github-templates.
 
 ![Bug!](http://i.imgur.com/ZjiFJ3D.gif)
