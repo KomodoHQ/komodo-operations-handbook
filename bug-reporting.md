@@ -54,16 +54,23 @@ In general, the following template should suffice for reporting a bug.
 ## Raising feedback in Jira
 
 > General guidance for how feedback should be raised whilst working on KOMODO-managed Jira boards
+> This guidance may be subject to the project you are working on
 
 Tasks and Stories which are placed in the QA column of a board should contain the completed work towards the user story and acceptance criteria outlined in that ticket, however there may be instances where feedback can be given on that work. A QA team member will use this ticket to plan, design, and direct testing efforts and raise any feedback using **child issues** and **Labels** as shown below: 
 
 - A ticket is progressed through In Progress and Peer Review status before reaching QA column
 - Testing is performed on that ticket
-- Feedback is raised as child ticket(s) following guidance outlined in this page
-- Child tickets are assigned a label of **QA**
-- Child tickets are assigned a label which indicates the nature of the feedback using the **Feedback Labels** below
-- Child tickets can be worked on and tested until all children pass
-- Once all children pass, the parent ticket can be tested again and approved
+- Feedback is raised as child ticket(s) following bug reporting guidance outlined in this page
+- For each child ticket...
+    - Assign a severity level
+    - Assign a label of **QA**
+    - Assign a label which indicates the nature of the feedback using the **Feedback Labels** below
+
+Once feedback has been added, it shows good practise to communicate the tickets in a short update in the project channel in Slack. This provides an opportunity for discussion on the feedback and helps to eliminate any non-issues or false-positives, but also prevents feedback from being left unnoticed.
+
+A Project Manager will prioritise the child tickets as required. Child tickets which are prioritised lower may be converted into tasks and placed in the backlog to be addressed at a later date.
+
+After all remaining child tickets have been resolved by the developer and QA team members, the parent ticket will be tested again before being moved to Done. Parent tickets should not be marked as Done until all attached child tickets have been addressed.
 
 ## Feedback Labels
 
