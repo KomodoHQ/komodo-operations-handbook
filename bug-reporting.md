@@ -53,7 +53,7 @@ In general, the following template should suffice for reporting a bug.
 
 ## Raising feedback in Jira
 
-> General guidance for how feedback should be raised whilst working on KOMODO-managed Jira boards
+> General guidance for how feedback should be raised whilst working on KOMODO-managed Jira boards. 
 > This guidance may be subject to the project you are working on
 
 Tasks and Stories which are placed in the QA column of a board should contain the completed work towards the user story and acceptance criteria outlined in that ticket, however there may be instances where feedback can be given on that work. A QA team member will use this ticket to plan, design, and direct testing efforts and raise any feedback using **child issues** and **Labels** as shown below: 
