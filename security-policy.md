@@ -10,7 +10,7 @@ We employ [Bitwarden](https://bitwarden.com/) in the business to create and stor
 
 If you are [registering for any accounts](where-is.md) either on behalf of the business (e.g. such as a new tool or service) or for yourself for a business function (such as JIRA), we expect you to generate a random password from Bitwarden. This password should also be stored in Bitwarden.
 
-If the password you are creating is related to a project rather than yourself, ensure to store it as part of the `Shared-Projects` group in Bitwarden. If you don’t have access to the group, contact a member of management for access.
+If the password you are creating is related to a project rather than yourself, ensure to store it in the respective project's folder in Bitwarden e.g `Collections\Projects\{Project Name}`. If you don’t have access to the group, contact a member of management for access.
 
 ## Two-Factor Everywhere
 
