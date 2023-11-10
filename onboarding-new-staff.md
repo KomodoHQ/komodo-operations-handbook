@@ -118,7 +118,7 @@ Once the team member has had their hardware provisioned, the next stage is to go
        - Frontend / JS - React / Node
          - Daniel Carney (Senior Developer)
        - Mobile / React Native
-         - Mike Flowers (Senior Developer)
+         - Mike Flowers (Head of Mobile Development)
  - Talk about probation, probation rules and restrictions and review policy, expectations.
  - Talk about HR elements, when you're paid, booking holiday etc.
  - Walk through and confirm clear and thorough understanding of the [Security policy](security-policy.md) at Komodo.
