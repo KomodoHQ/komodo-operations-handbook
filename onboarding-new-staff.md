@@ -26,7 +26,7 @@ Before speaking to the new team member on the morning they start, there are a nu
    - Ensure to add their user accounts to the `Office` (aka `Studio`) and `Devs` groups at [https://admin.google.com/ac/groups](https://admin.google.com/ac/groups)
  - Slack
  - JIRA
- - Harvest
+ - Float
  - Mincoffs
  - Bitwarden
 
