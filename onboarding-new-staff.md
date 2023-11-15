@@ -115,8 +115,6 @@ Once the team member has had their hardware provisioned, the next stage is to go
      - Development
        - PHP - Laravel, Symfony, WordPress
          - Scott Salisbury (Head of Web Development)
-       - Frontend / JS - React / Node
-         - Daniel Carney (Senior Developer)
        - Mobile / React Native
          - Mike Flowers (Head of Mobile Development)
  - Talk about probation, probation rules and restrictions and review policy, expectations.
