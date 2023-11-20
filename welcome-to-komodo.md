@@ -11,10 +11,10 @@ On your first day, here's a rough outline of what you will be up to:
  - Get your machine setup with standard accounts
    - Gmail and Google Apps (_Email & Docs_)
    - Slack (_Office Chat_)
-   - Harvest (_Time Tracking_)
+   - Float (_Time Tracking_)
    - Jira (_Tasks_)
    - BitBucket and GitHub (_Code Source Control_)
-   - LastPass (_Passwords and Secure Notes_)
+   - Bitwarden (_Passwords and Secure Notes_)
    - Mincoffs (_HR_)
    
  - Be introduced to the company, team structure and key persons related to your role

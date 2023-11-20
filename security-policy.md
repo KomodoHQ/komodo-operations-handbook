@@ -6,11 +6,11 @@ Security is of paramount importance here at Komodo, and we expect you to follow 
 
 ## Password Policy
 
-We employ [LastPass](https://lastpass.com/?ac=1&lpnorefresh=1) in the business to create and store passwords. 
+We employ [Bitwarden](https://bitwarden.com/) in the business to create and store passwords. 
 
-If you are [registering for any accounts](where-is.md) either on behalf of the business (e.g. such as a new tool or service) or for yourself for a business function (such as JIRA), we expect you to generate a random password from LastPass. This password should also be stored in LastPass.
+If you are [registering for any accounts](where-is.md) either on behalf of the business (e.g. such as a new tool or service) or for yourself for a business function (such as JIRA), we expect you to generate a random password from Bitwarden. This password should also be stored in Bitwarden.
 
-If the password you are creating is related to a project rather than yourself, ensure to store it as part of the `Shared-Projects` group in LastPass. If you don’t have access to the group, contact a member of management for access.
+If the password you are creating is related to a project rather than yourself, ensure to store it in the respective project's folder in Bitwarden e.g `Collections\Projects\{Project Name}`. If you don’t have access to the group, contact a member of management for access.
 
 ## Two-Factor Everywhere
 
@@ -20,7 +20,7 @@ Please ensure that **for every account you employ related to the business, you a
 
 ## Machine Security and Installed Applications
 
-On your first day you will be asked to set a new password for your office Mac. Please ensure that once set, you create a LastPass shared note with `ian@komododigital.co.uk` including your Mac Password. This is necessary in case we require emergency access to your Mac.
+On your first day you will be asked to set a new password for your office Mac. Please ensure that once set, you create a Bitwarden shared note with `scott@komododigital.co.uk` including your Mac Password. This is necessary in case we require emergency access to your Mac.
 
 >If at any point you update your Mac login password, ensure to share the updated one with management.
 
@@ -30,15 +30,15 @@ If in doubt, talk to management.
 
 ## SSH Keys
 
-Please ensure that your private and public SSH keys are in LastPass as a secure note, again shared with `ian@komododigital.co.uk`. If you have a password for them, ensure to include the password on the note. This is necessary in case access to servers / services is needed in an emergency and your Mac is unavailable.
+Please ensure that your private and public SSH keys are in Bitwarden as a secure note, again shared with `scott@komododigital.co.uk`. If you have a password for them, ensure to include the password on the note. This is necessary in case access to servers / services is needed in an emergency and your Mac is unavailable.
 
 If you need help with how to setup an SSH Key, follow GitHub’s guide at [https://help.github.com/en/enterprise/2.15/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent](https://help.github.com/en/enterprise/2.15/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 ## Sharing Credentials (internal & external)
 
-The only acceptable method of digitally directly sharing credentials with clients / customers is via a LastPass secure note. If you are unsure how to create one, shout up in the office and someone will give you a hand.
+The only acceptable method of digitally directly sharing credentials with clients / customers is via a Bitwarden secure note. If you are unsure how to create one, shout up in the office and someone will give you a hand.
 
-Internally, shared credentials should be in the relevant project folder in LastPass.
+Internally, shared credentials should be in the relevant project folder in Bitwarden.
 
 You may share credentials quickly via Slack internally, provided you immediately delete the message upon successful receipt by the recipient.
 
@@ -64,7 +64,7 @@ The company does have an account with a VPN provider. When working off site on a
 
 # Project / Code Security
 
-Any project related credentials should be stored in LastPass and **never, ever committed into GIT**. If you discover credentials have been added to GIT by accident, please report this immediately so we can take the appropriate action to revoke the security credentials.
+Any project related credentials should be stored in Bitwarden and **never, ever committed into GIT**. If you discover credentials have been added to GIT by accident, please report this immediately so we can take the appropriate action to revoke the security credentials.
 
 This includes, but is not limited to:
 
@@ -76,7 +76,7 @@ Further to this, database copies / backups and log files should also **never, ev
 
 # WiFi, Mobile Devices & Guests
 
-Personal devices and non-company hardware is forbidden from access to the `Komodo Internal` WiFi network. Please connect these to the `Komodo Guest` network, the details of which are in LastPass. Only office hardware should be connected to the `Komodo Internal` network.
+Personal devices and non-company hardware is forbidden from access to the `Komodo Internal` WiFi network. Please connect these to the `Komodo Guest` network, the details of which are in Bitwarden. Only office hardware should be connected to the `Komodo Internal` network.
 
 >There are exceptions to this - if required please talk to management. 
 

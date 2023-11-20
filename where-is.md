@@ -52,11 +52,11 @@ Certain projects have backups exported to Amazon S3 (for example, the College of
 >Login to Amazon AWS Console at **[https://console.aws.amazon.com/](https://console.aws.amazon.com/)**.
 
 
-## Passwords, SSH Keys, Development Certificates, Secure Credentials? LastPass.
+## Passwords, SSH Keys, Development Certificates, Secure Credentials? Bitwarden.
 
-All secure credentials should be stored in LastPass. For project related credentials, ensure they are placed within a shared folder for that project.
+All secure credentials should be stored in Bitwarden. For project related credentials, ensure they are placed within a shared folder for that project.
 
-Items that absolutely should be stored in LastPass (and NOT ANYWHERE ELSE) include:
+Items that absolutely should be stored in Bitwarden (and NOT ANYWHERE ELSE) include:
 
  - Passwords
  - SSH Keys (private and public)
@@ -64,13 +64,13 @@ Items that absolutely should be stored in LastPass (and NOT ANYWHERE ELSE) inclu
  - User accounts
  - API Keys
 
->Login to LastPass at **[https://lastpass.com/?ac=1&lpnorefresh=1](https://lastpass.com/?ac=1&lpnorefresh=1)**
+>Login to Bitwarden at **[https://vault.bitwarden.com/#/login](https://vault.bitwarden.com/#/login)**
 
-## Time Tracking? Harvest.
+## Time Tracking? Float.
 
-Generally, your time on projects needs to be recorded. This is done on Harvest, which you can log into using your Google Apps / Gmail account. If you are not sure where to track your time, please contact an AM / PM.
+Generally, your time on projects needs to be recorded. This is done on Float, which you can log into using your Google Apps / Gmail account. If you are not sure where to track your time, please contact an AM / PM.
 
->Login to Harvest at **[https://id.getharvest.com/accounts](https://id.getharvest.com/accounts)**
+>Login to Float at **[https://komodo.float.com/login](https://komodo.float.com/login)**
 
 ## Booking Holiday / HR? Mincoffs.
 
