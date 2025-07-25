@@ -4,6 +4,7 @@
 * [Our Tools And Tech](/our-tools-and-tech)
 * [New Project Setup](/new-project-setup)
 * [What We Expect](/what-we-expect)
+* [Accessibility](/accessibility)
 * [Bug Reporting](/bug-reporting)
 * [Where Is...?](/where-is)
 * [The Studio](/the-studio)
