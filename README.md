@@ -1,4 +1,4 @@
-![Komodo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZdc3gAgT23t7Xt6hvys-04scB4vmxizu7CjmaA2aQ0uza86FD)
+![Komodo](https://framerusercontent.com/images/0FckZUgrFhpM1YZgLvD7g0Rro.svg ':size=300')
 
 # Development Team Operations Handbook
 
