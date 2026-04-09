@@ -22,10 +22,10 @@ Please feel free to open pull requests to help add more to the handbook!
 - [Our Tools And Tech](our-tools-and-tech.md) - A general reference to our technology and approach. 
 - [New Project Setup](new-project-setup.md) - Starting a new project? This should help.
 - [What We Expect](what-we-expect.md) - Rules and guidelines as to what's expected of a developer at Komodo.
-- [The Studio](the-studio.md) - Office hardware and software, and business related items.
+- [Accessibility](accessibility.md) - Guidance on including accessibility in design and development.
 - [Bug Reporting](bug-reporting.md) - How to report on bugs the right way.
 - [Where Is...?](where-is.md) - A quick reference for commonly needed items as a developer.
-* [The Studio](/the-studio.md) - Information about our offices based in Newcastle Upon Tyne.
+- [The Studio](the-studio.md) - Office hardware and software, and business related items.
 
 ## Management Related
 
