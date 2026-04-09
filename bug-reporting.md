@@ -87,5 +87,5 @@ After all remaining child tickets have been resolved by the developer and QA tea
 
 If you need a "tailored" bug reporting template, checkout https://github.com/devspace/awesome-github-templates.
 
-![Bug!](http://i.imgur.com/ZjiFJ3D.gif)
+![Bug!](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemgzbXN5eGV6N2t3ajZud2h6dHhmNWhuZjloaWxnd3RkMDVqdnhuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZkpIdieotn3i/giphy.gif)
 
